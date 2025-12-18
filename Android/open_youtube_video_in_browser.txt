@@ -1,0 +1,17 @@
+REM Author: SeenKid (seenkid on discord)
+REM Description: Open a youtube video and put it full screen
+REM Version: 1.0
+
+GUI b
+DELAY 700
+CTRL l
+DELAY 1500
+STRINGLN https://www.youtube.com/watch?v=dQw4w9WgXcQ
+DELAY 2200
+TAB
+TAB
+TAB
+TAB
+TAB
+TAB
+ENTER
